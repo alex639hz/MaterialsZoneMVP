@@ -1,0 +1,1132 @@
+Message-ID: <76136456.77.1529305712826@283bed84d3cb>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_76_2142198776.1529305712825"
+
+------=_Part_76_2142198776.1529305712825
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>001 Entity Management (EM) Contract</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>001 Entity Management (EM) Contract</h1>
+    <div class=3D"Section1">
+        <div class=3D"plugin-tabmeta-details">
+<div class=3D"table-wrap">
+<table class=3D"wrapped confluenceTable">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh"><span style=3D"color: rgb(0,0,128);">Target rele=
+ase</span></th>
+<td class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128);">Sample Prot=
+ocol V1.0</span></td>
+</tr>
+<tr>
+<th class=3D"confluenceTh"><span style=3D"color: rgb(0,0,128);">Epic</span>=
+</th>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<th class=3D"confluenceTh"><span style=3D"color: rgb(0,0,128);">Document st=
+atus</span></th>
+<td class=3D"confluenceTd">
+<div class=3D"content-wrapper">
+<span style=3D"color: rgb(0,0,128);"><span class=3D"status-macro aui-lozeng=
+e">DRAFT</span></span>
+</div></td>
+</tr>
+<tr>
+<th class=3D"confluenceTh"><span style=3D"color: rgb(0,0,128);">Document ow=
+ner</span></th>
+<td class=3D"confluenceTd">
+<div class=3D"content-wrapper">
+<p><span style=3D"color: rgb(0,0,128);"><a class=3D"confluence-userlink use=
+r-mention current-user-mention" data-username=3D"alex.z" href=3D"/wiki/disp=
+lay/~alex.z" data-linked-resource-id=3D"24248322" data-linked-resource-vers=
+ion=3D"1" data-linked-resource-type=3D"userinfo" data-base-url=3D"https://m=
+aterialszone.atlassian.net/wiki">Alex Zabolotniy</a></span></p>
+</div></td>
+</tr>
+<tr>
+<th class=3D"confluenceTh"><span style=3D"color: rgb(0,0,128);">Designer</s=
+pan></th>
+<td class=3D"confluenceTd">
+<div class=3D"content-wrapper">
+<span style=3D"color: rgb(0,0,128);"><a class=3D"confluence-userlink user-m=
+ention current-user-mention" data-username=3D"alex.z" href=3D"/wiki/display=
+/~alex.z" data-linked-resource-id=3D"24248322" data-linked-resource-version=
+=3D"1" data-linked-resource-type=3D"userinfo" data-base-url=3D"https://mate=
+rialszone.atlassian.net/wiki">Alex Zabolotniy</a></span>
+</div></td>
+</tr>
+<tr>
+<th class=3D"confluenceTh"><span style=3D"color: rgb(0,0,128);">Developers<=
+/span></th>
+<td class=3D"confluenceTd">
+<div class=3D"content-wrapper">
+<span style=3D"color: rgb(0,0,128);"><a class=3D"confluence-userlink user-m=
+ention current-user-mention" data-username=3D"alex.z" href=3D"/wiki/display=
+/~alex.z" data-linked-resource-id=3D"24248322" data-linked-resource-version=
+=3D"1" data-linked-resource-type=3D"userinfo" data-base-url=3D"https://mate=
+rialszone.atlassian.net/wiki">Alex Zabolotniy</a></span>
+</div></td>
+</tr>
+<tr>
+<th class=3D"confluenceTh"><span style=3D"color: rgb(0,0,128);">QA</span></=
+th>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<h2 id=3D"id-001EntityManagement(EM)Contract-GeneralEconomyGoals"><span sty=
+le=3D"color: rgb(0,0,128);">General Economy Goals</span></h2>
+<ul>
+<li><span style=3D"color: rgb(0,0,128);">The goal of Solidity smart contrac=
+t(s) is to provide the smart economy to Sample Protocol. more specifically =
+to provide the below features:</span>
+<ul>
+<li><span style=3D"color: rgb(0,0,128);">User and data ownership registrati=
+on, user permission management (Entity Management - EM Contract).</span></l=
+i>
+<li><span style=3D"color: rgb(0,0,128);">Data trading and client protection=
+ (Data Block Trading - DBK Contract).</span></li>
+<li><span style=3D"color: rgb(0,0,128);">Partnership organization, shares a=
+llocation for each data block and funds spreading&nbsp;(Partnership - PTR C=
+ontract).</span></li>
+</ul></li>
+</ul>
+<h2 id=3D"id-001EntityManagement(EM)Contract-EMContractGoals"><span style=
+=3D"color: rgb(0,0,128);">EM Contract Goals</span></h2>
+<ul>
+<li><span style=3D"color: rgb(0,0,128);">User registration and permission c=
+ontrol</span></li>
+<li><span style=3D"color: rgb(0,0,128);">D</span><span style=3D"color: rgb(=
+0,0,128);">eployment of shareholders (PTR) contract</span></li>
+<li><span style=3D"color: rgb(0,0,128);">Deployment of data-block trading <=
+span style=3D"color: rgb(0,0,128);">(DBK)&nbsp;</span>contract&nbsp;</span>=
+</li>
+</ul>
+<h2 id=3D"id-001EntityManagement(EM)Contract-Backgroundandstrategicfit"><sp=
+an style=3D"color: rgb(0,0,128);">Background and strategic fit</span></h2>
+<p><span style=3D"color: rgb(0,0,128);">-</span></p>
+<h2 id=3D"id-001EntityManagement(EM)Contract-EMAssumptionsandnotes:"><span =
+style=3D"color: rgb(0,0,128);">EM Assumptions and notes:</span></h2>
+<ul>
+<li><span style=3D"color: rgb(0,0,128);">EM Contract is a singleton contrac=
+t (one instance per economy)</span></li>
+<li><span style=3D"color: rgb(0,0,128);">Entities added by a member-member =
+policy.</span></li>
+<li><span style=3D"color: rgb(0,0,128);">Data users (data producer/consumer=
+) interact with contracts using function call transactions (no need to sign=
+ the data, just generate a transaction to the specific function in the cont=
+ract)&nbsp;</span></li>
+<li><span style=3D"color: rgb(0,0,128);">When a registered entity registers=
+ a new entity, the new address and its permission is updated but Authentica=
+tion and Authorization&nbsp;flags aren't, when the new entity is Authentica=
+ted the Authorization flag is set too. Keep in mind that if from some reaso=
+n entity must be disabled, a higher entity will set its Authorization flag =
+to false.</span></li>
+</ul>
+<h2 id=3D"id-001EntityManagement(EM)Contract-Requirements"><span style=3D"c=
+olor: rgb(0,0,128);">Requirements</span></h2>
+<div class=3D"table-wrap">
+<table class=3D"relative-table wrapped confluenceTable" style=3D"width: 99.=
+6063%;">
+<colgroup>
+<col style=3D"width: 2.41785%;">
+<col style=3D"width: 17.4195%;">
+<col style=3D"width: 44.0158%;">
+<col style=3D"width: 6.48423%;">
+<col style=3D"width: 29.5087%;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh"><span style=3D"color: rgb(0,0,12=
+8);">#</span></th>
+<th class=3D"confluenceTh"><span style=3D"color: rgb(0,0,128);">Title (Type=
+)</span></th>
+<th class=3D"confluenceTh"><span style=3D"color: rgb(0,0,128);">User Story<=
+/span></th>
+<th class=3D"confluenceTh"><span style=3D"color: rgb(0,0,128);">Importance<=
+/span></th>
+<th class=3D"confluenceTh"><span style=3D"color: rgb(0,0,128);">Notes</span=
+></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">1</td>
+<th class=3D"highlight-yellow confluenceTh" style=3D"text-align: center;" c=
+olspan=3D"4" data-highlight-colour=3D"yellow"><span style=3D"color: rgb(0,0=
+,128);"><strong>Data Types and variables&nbsp;</strong></span></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<th class=3D"confluenceTh"><span style=3D"color: rgb(0,0,128);"><strong>Ent=
+ityType (enum data type)</strong></span><br><br></th>
+<td class=3D"confluenceTd"><p><span style=3D"color: rgb(0,0,128);">This var=
+iable will keep a list of predefined entity types. Entity type is included =
+in each entity record to notify the EM contract about its permission level.=
+</span></p>
+<hr><p class=3D"auto-cursor-target"><span style=3D"color: rgb(0,0,128);"><s=
+trong>EntityType.UNKNOWN</strong> (default)&nbsp; -&nbsp;&nbsp;This account=
+ number is unregistered&nbsp; -&nbsp;&nbsp;no permissions.&nbsp;</span></p>
+<hr><p><span style=3D"color: rgb(0,0,128);"><strong>EntityType.OWNER</stron=
+g>&nbsp; -&nbsp;&nbsp;This account number registered as Sample Protocol Fou=
+ndation Owner&nbsp; -&nbsp;&nbsp;can register Foundation Administrators.</s=
+pan></p>
+<hr><p><span style=3D"color: rgb(0,0,128);"><strong>EntityType.ADMIN</stron=
+g>&nbsp; -&nbsp;&nbsp;This account number registered as Sample Protocol Fou=
+ndation Administrator&nbsp; -&nbsp;&nbsp;can register service providers.</s=
+pan></p>
+<hr><p><span style=3D"color: rgb(0,0,128);"><strong>EntityType.PROVIDER</st=
+rong>&nbsp; -&nbsp; This account number registered as Sample Protocol&nbsp;=
+Service Provider. can register Data users.</span></p>
+<hr><p><span style=3D"color: rgb(0,0,128);"><strong>EntityType.USER</strong=
+>&nbsp; -&nbsp; account number registered as Sample Protocol Data user (Dat=
+a Producer/Consumer) - can be registered as data block owner, trade and pur=
+chase data blocks.</span></p>
+<hr><p><span style=3D"color: rgb(0,0,128);"><strong>EntityType.GUEST</stron=
+g>&nbsp; -&nbsp; This account number registered as Sample Protocol&nbsp;Gue=
+st&nbsp; -&nbsp; no permissions</span></p>
+<hr><p><span style=3D"color: rgb(0,0,128);"><strong>EntityType.DBK</strong>=
+&nbsp; -&nbsp; ...</span></p>
+<hr><p><span style=3D"color: rgb(0,0,128);"><strong>EntityType.PTR</strong>=
+&nbsp; -&nbsp; ...</span></p></td>
+<td class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128);">Must</span>=
+</td>
+<td class=3D"confluenceTd">
+<ul>
+<li><span style=3D"color: rgb(0,0,128);">Please see the below description f=
+or each entity type</span></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">3</td>
+<th colspan=3D"1" class=3D"confluenceTh"><br></th>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;"><strong>EntityType.ORC</strong>&nbsp; -&nbsp; ...</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">4</td>
+<th colspan=3D"1" class=3D"confluenceTh"><p><span style=3D"color: rgb(0,0,1=
+28);"><strong>Entity (data structure)</strong></span></p><p><br></p></th>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">This data structure is used to keep entity record, it has the below fiel=
+ds:</span><br>
+<hr><p><span style=3D"color: rgb(0,0,128);"><strong>Entity.entityType -</st=
+rong> (<em>EntityType type)&nbsp; -&nbsp; </em>&nbsp;holds the permission l=
+evel of the specified entity.&nbsp;</span></p>
+<hr><p><span style=3D"color: rgb(0,0,128);"><strong>Entity.parent</strong>&=
+nbsp; - (<em>address type)</em>&nbsp; -&nbsp; &nbsp;holds the registrar add=
+ress of the entity.</span></p>
+<hr><p><span style=3D"color: rgb(0,0,128);"><strong><strong>Entity.</strong=
+>authorized&nbsp; </strong>-&nbsp; (<em>bool Type)&nbsp; -&nbsp;</em>&nbsp;=
+holds the "Is Authorized" flag of an entity. informs the contract if this e=
+ntity is Authorized to act in the network</span></p>
+<hr><p><span style=3D"color: rgb(0,0,128);"><strong><strong>Entity.a</stron=
+g>uthenticated&nbsp; </strong>-&nbsp;(<em>bool Type)&nbsp; -&nbsp;</em>&nbs=
+p;holds the "Is Authenticated" flag of an entity. Informs the contract if t=
+his entity is Authenticated by (defined authentication process like 3rd par=
+ty KYC service provider)</span></p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p><span style=3D"color: rgb(0,0,1=
+28);">Must</span></p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p><span style=3D"color: rgb(0,0,1=
+28);">Entity is a data structure referenced by account address.</span></p><=
+/td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">5</td>
+<th colspan=3D"1" class=3D"confluenceTh"><br></th>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;"><strong><strong>Entity.reputation</strong>&nbsp;&nbsp;</strong>-&nbsp;(<=
+em>uint256 Type)&nbsp; -&nbsp;</em>&nbsp;holds the reputation value which i=
+s set by the community.</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">6</td>
+<th colspan=3D"1" class=3D"confluenceTh"><p><span style=3D"color: rgb(0,0,1=
+28);"><strong>entityTable<br></strong><strong> (mapping (address =3D&gt; En=
+tity))</strong></span></p></th>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">Is a hash table which stores entity records - where the key type is addr=
+ess and the value type is Entity data structure</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">Must</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">keeps entity record for each address</span></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">7</td>
+<th colspan=3D"1" class=3D"confluenceTh"><span style=3D"color: rgb(0,0,128)=
+;"><strong>hashOwnershipTable (mapping (bytes32=3D&gt;address))<br></strong=
+></span></th>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">Is a hash table which stores hash ownership records - where the key type=
+ is a 256-bit number (digital signature of a data block) and the value is a=
+ddress</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">Must</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">keeps address (of owner) for each digital signature</span></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">8</td>
+<th class=3D"highlight-yellow confluenceTh" style=3D"text-align: center;" c=
+olspan=3D"4" data-highlight-colour=3D"yellow"><span style=3D"color: rgb(0,0=
+,128);"><strong>Events</strong></span></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">9</td>
+<th colspan=3D"1" class=3D"confluenceTh"><span style=3D"color: rgb(0,0,128)=
+;"><strong>LogNewContract</strong>()</span></th>
+<td colspan=3D"1" class=3D"confluenceTd">Log an event for the EM contract.<=
+/td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">Must</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">Arguments: (address indexed contractOwner, address indexed contractAddre=
+ss, string contractName)</span></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">10</td>
+<th colspan=3D"1" class=3D"confluenceTh"><span style=3D"color: rgb(0,0,128)=
+;"><strong>LogNewFoundationOwner</strong>( )</span></th>
+<td colspan=3D"1" class=3D"confluenceTd">Log an event for registration of a=
+ new foundation owner.</td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">Must</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">Arguments:&nbsp;(address indexed foundationOwner)</span></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">11</td>
+<th colspan=3D"1" class=3D"confluenceTh"><span style=3D"color: rgb(0,0,128)=
+;"><strong>LogNewFoundationAdmin</strong>( )</span></th>
+<td colspan=3D"1" class=3D"confluenceTd">Log an event for registration of a=
+ new foundation administrator.</td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">Must</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">Arguments:&nbsp;(address indexed foundationAdmin, address indexed Servic=
+eProvider)</span></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">12</td>
+<th colspan=3D"1" class=3D"confluenceTh"><span style=3D"color: rgb(0,0,128)=
+;"><strong>LogNewServiceProvider</strong>( )</span></th>
+<td colspan=3D"1" class=3D"confluenceTd">Log an event for registration of a=
+ new service provider.</td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">Must</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">Arguments:&nbsp;(address indexed foundationAdmin, address indexed Servic=
+eProvider)</span></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">13</td>
+<th colspan=3D"1" class=3D"confluenceTh"><span style=3D"color: rgb(0,0,128)=
+;">LogNewDataUser( )</span></th>
+<td colspan=3D"1" class=3D"confluenceTd">Log an event for registration of a=
+ new data user.</td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">Must</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">Arguments:&nbsp;(address indexed entity, address indexed newEntity)</spa=
+n></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">14</td>
+<th colspan=3D"1" class=3D"confluenceTh"><s><span style=3D"color: rgb(0,0,1=
+28);">LogNewDBK( )</span></s></th>
+<td colspan=3D"1" class=3D"confluenceTd"><s>Log an event for registration o=
+f a new DBK contract</s>&nbsp;(instead, use DBK's constructor event)</td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">DISABLED</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">Arguments:&nbsp;(address indexed entity, bytes32 indexed hash)</span></t=
+d>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">15</td>
+<th colspan=3D"1" class=3D"confluenceTh"><s><span style=3D"color: rgb(0,0,1=
+28);">LogNewPTR( )</span></s></th>
+<td colspan=3D"1" class=3D"confluenceTd"><s>Log an event for registration o=
+f a new Ptr contract</s>&nbsp;(instead, use PTR's constructor event)</td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">DISABLED</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">Arguments: (</span>Shareholder[ ] _owners)</td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">16</td>
+<th colspan=3D"1" class=3D"confluenceTh"><span style=3D"color: rgb(0,0,128)=
+;">LogKill( )</span></th>
+<td colspan=3D"1" class=3D"confluenceTd">Log an event for killing the EM co=
+ntract.</td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">Must</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">Arguments: ()</span></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">17</td>
+<th colspan=3D"1" class=3D"confluenceTh"><span style=3D"color: rgb(0,0,128)=
+;">LogDeposit( )</span></th>
+<td colspan=3D"1" class=3D"confluenceTd">Log an event for depositing to the=
+ contract. Depositing means to transfer funds to the contract without calli=
+ng any specific function.</td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">Must</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">Arguments:&nbsp;(address _src, uint256 _idx)</span></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">18</td>
+<th class=3D"highlight-yellow confluenceTh" style=3D"text-align: center;" c=
+olspan=3D"4" data-highlight-colour=3D"yellow"><span style=3D"color: rgb(0,0=
+,128);"><strong>Modifiers Functions</strong></span></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">19</td>
+<th colspan=3D"1" class=3D"confluenceTh"><span style=3D"color: rgb(0,0,128)=
+;">PassIfTrue()</span></th>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">general modifier - pass if provided condition evaluated to true</span></=
+td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">Must</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">Arguments:&nbsp;(bool test)</span></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">20</td>
+<th colspan=3D"1" class=3D"confluenceTh"><span style=3D"color: rgb(0,0,128)=
+;">EntityOnly()</span></th>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">pass if 'msg.sender' is an entity in the contract</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">Must</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">Arguments: (address _acc)</span></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">21</td>
+<th colspan=3D"1" class=3D"confluenceTh"><span style=3D"color: rgb(0,0,128)=
+;">NotEntityOnly</span></th>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">pass if 'msg.sender' is NOT an entity in the contract30</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">Must</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">Arguments: (address _acc)</span></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">22</td>
+<th colspan=3D"1" class=3D"confluenceTh"><span style=3D"color: rgb(0,0,128)=
+;">AuthorizedEntityOnly()</span></th>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">pass if 'msg.sender' is an authorized entity&nbsp;</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">Must</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">Arguments: (address _acc)</span></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">23</td>
+<th colspan=3D"1" class=3D"confluenceTh"><span style=3D"color: rgb(0,0,128)=
+;">foundationOwnerOnly()</span></th>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">pass if 'msg.sender' is an authorized foundation owner</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">Must</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">Arguments: (address _acc)</span></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">24</td>
+<th colspan=3D"1" class=3D"confluenceTh"><span style=3D"color: rgb(0,0,128)=
+;">foundationAdminOnly()</span></th>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">pass if 'msg.sender' is an authorized foundation admin</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">Must</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">Arguments: (address _acc)</span></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">25</td>
+<th colspan=3D"1" class=3D"confluenceTh"><span style=3D"color: rgb(0,0,128)=
+;">serviceProviderOnly()</span></th>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">pass if 'msg.sender' is an authorized service provider</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">Must</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">Arguments: (address _acc)</span></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">26</td>
+<th colspan=3D"1" class=3D"confluenceTh"><span style=3D"color: rgb(0,0,128)=
+;">dataUserOnly()</span></th>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">pass if 'msg.sender' is an authorized data user</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">Must</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">Arguments: (address _acc)</span></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">27</td>
+<th colspan=3D"1" class=3D"confluenceTh"><span style=3D"color: rgb(0,0,128)=
+;">dataOwnerOnly()</span></th>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">pass if 'msg.sender' is owner of registered _hash</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">Must</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">&nbsp;Arguments: (address _acc, bytes32 _hash)</span></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">28</td>
+<th class=3D"highlight-yellow confluenceTh" style=3D"text-align: center;" c=
+olspan=3D"4" data-highlight-colour=3D"yellow"><span style=3D"color: rgb(0,0=
+,128);"><strong>Functions</strong></span></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">29</td>
+<th colspan=3D"1" class=3D"confluenceTh"><p><span style=3D"color: rgb(0,0,1=
+28);">constructor( )&nbsp;</span></p></th>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">constructor Function</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">Must</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">30</td>
+<th colspan=3D"1" class=3D"confluenceTh"><span style=3D"color: rgb(0,0,128)=
+;">kill( )</span></th>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">destructor Function</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">Must</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">31</td>
+<th colspan=3D"1" class=3D"confluenceTh"><span style=3D"color: rgb(0,0,128)=
+;">( )</span></th>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">Payback Function</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">Must</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">32</td>
+<th colspan=3D"1" class=3D"confluenceTh"><p><span style=3D"color: rgb(0,0,1=
+28);">checkHashOwnership( )</span></p></th>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">Allows to verify&nbsp;if specific address is the owner of specific signa=
+ture&nbsp;</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">Must</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">Arguments: (address _address, bytes32 _hash)</span></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">33</td>
+<th colspan=3D"1" class=3D"confluenceTh"><span style=3D"color: rgb(0,0,128)=
+;">addFoundationOwner( )</span></th>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">Must</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">Arguments:&nbsp;(address _newAddress)</span></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">34</td>
+<th colspan=3D"1" class=3D"confluenceTh"><p><span style=3D"color: rgb(0,0,1=
+28);">addFoundationAdmin( )</span></p></th>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">Allows foundation owner to add foundation&nbsp;admin.&nbsp;The registrar=
+ must be an authorized foundation owner.&nbsp;The registrar will become adm=
+in's parent.</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">Must</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">Arguments:&nbsp;(address _newAddress)</span></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">35</td>
+<th colspan=3D"1" class=3D"confluenceTh"><span style=3D"color: rgb(0,0,128)=
+;">addServiceProvider( )</span></th>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">Allows foundation admin to add service provider.&nbsp;The registrar must=
+ be an authorized foundation admin.&nbsp;The registrar will become service =
+provider's parent.</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">Must</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">Arguments:&nbsp;(address _newAddress)</span></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">36</td>
+<th colspan=3D"1" class=3D"confluenceTh"><span style=3D"color: rgb(0,0,128)=
+;">addDataUser( )</span></th>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">Allows service provider to add data user (data consumer or producer).&nb=
+sp;The registrar must be an authorized service provider.&nbsp;The registrar=
+ will become data user's parent.<br></span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">Must</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">Arguments: (address _address)</span></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">37</td>
+<th colspan=3D"1" class=3D"confluenceTh">locateDBK( ) ???</th>
+<td colspan=3D"1" class=3D"confluenceTd">Get the DBK-contract address of sp=
+ecific data-block (get address links digital-signatures/hash values (keccak=
+-256) of data-block to )</td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p><span style=3D"color: rgb(0,0,1=
+28);">Arguments:&nbsp;(bytes32 _hash)</span></p><p><span style=3D"color: rg=
+b(51,51,51);">Returns:&nbsp; (address DBK)</span></p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">38</td>
+<th colspan=3D"1" class=3D"confluenceTh"><span style=3D"color: rgb(0,0,128)=
+;">deployPTR( )</span></th>
+<td colspan=3D"1" class=3D"confluenceTd"><p><span style=3D"color: rgb(0,0,1=
+28);">The function caller asks to deploy partnership contract:<br></span></=
+p>
+<ol>
+<li><span style=3D"color: rgb(0,0,128);">The partnership group representati=
+ve(any shareholder from the partnership group) will call <strong>EM.</stron=
+g><span style=3D"color: rgb(0,0,128);"><strong>deployPTR( )</strong> functi=
+on</span>&nbsp;contract, providing it a list of initial shareholders accoun=
+ts and their absolute amount of shares.</span></li>
+<li><span style=3D"color: rgb(0,0,128);"><strong>EM</strong> contract will =
+verify the shareholder list provided to&nbsp;<span style=3D"color: rgb(0,0,=
+128);"><strong>deployPTR( )</strong> function making sure every entity in i=
+t is registered.</span></span></li>
+<li><span style=3D"color: rgb(0,0,128);"><span style=3D"color: rgb(0,0,128)=
+;"><strong>EM</strong> contract deploys <strong>PTR</strong> contract and r=
+egisters its address as entity in <strong>entityTable</strong>&nbsp;with&nb=
+sp;<span style=3D"color: rgb(0,0,128);"><strong>EntityType.PTR</strong> as =
+its entity type.</span></span></span></li>
+<li><span style=3D"color: rgb(0,0,128);"><span style=3D"color: rgb(0,0,128)=
+;"><span style=3D"color: rgb(0,0,128);">Deployed <strong>PTR</strong> store=
+s <strong>EM</strong>-contract's address for future referencing.</span></sp=
+an></span></li>
+</ol></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">Must</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">Arguments: (Shareholder[ ]&nbsp; _partners)c</span></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">39</td>
+<th colspan=3D"1" class=3D"confluenceTh"><s><span style=3D"color: rgb(0,0,1=
+28);">registerHash( )</span></s></th>
+<td colspan=3D"1" class=3D"confluenceTd"><p>This internal function sets&nbs=
+p;<strong>hashOwnershipTable</strong> to provide&nbsp;</p><p><s>This functi=
+on caller asks to declare ownership over a data-block, by mapping data-bloc=
+k's digital signature (keccak-256) to a <strong>PTR</strong> contract addre=
+ss by setting&nbsp;<strong>hashOwnershipTable</strong>.</s></p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">DISABLED</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">Arguments:&nbsp;(bytes32 _hash)</span></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">40</td>
+<th colspan=3D"1" class=3D"confluenceTh"><span style=3D"color: rgb(0,0,128)=
+;">deployDBK( )</span></th>
+<td colspan=3D"1" class=3D"confluenceTd"><p>The function caller asks to dep=
+loy a&nbsp;<strong>DBK</strong> contract:</p>
+<ol>
+<li><span style=3D"color: rgb(0,0,128);">The caller is a group representati=
+ve (any shareholder from the partnership group) will call <strong>EM.</stro=
+ng><span style=3D"color: rgb(0,0,128);"><strong>deployDBK( )</strong> funct=
+ion</span>&nbsp;contract, providing it a list of initial shareholders accou=
+nts and their absolute amount of shares.</span></li>
+</ol></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">Must</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">Arguments:&nbsp;(address _acc, bytes32 _hash)</span></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">41</td>
+<th colspan=3D"1" class=3D"confluenceTh"><span style=3D"color: rgb(0,0,128)=
+;">getEntity( )</span></th>
+<td colspan=3D"1" class=3D"confluenceTd">returns Entity structure of the re=
+quired address.</td>
+<td colspan=3D"1" class=3D"confluenceTd">Must</td>
+<td colspan=3D"1" class=3D"confluenceTd"><p><span style=3D"color: rgb(0,0,1=
+28);">Arguments:&nbsp;(address _acc)</span></p><p><span style=3D"color: rgb=
+(51,51,51);">Returns:&nbsp; (address Entity)</span></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-001EntityManagement(EM)Contract-Userinteractionanddesign"><spa=
+n style=3D"color: rgb(0,0,128);">User interaction and design</span></h2>
+<ol>
+<li><span style=3D"color: rgb(0,0,128);">The account address which deploys =
+the EM Contract becomes an entity with Foundation-Owner permissions. (known=
+ as the "first entity")</span></li>
+<li><span style=3D"color: rgb(0,0,128);">each entity, after registration mu=
+st be authenticated in and authorized&nbsp; (authentication process must be=
+ separated from the registration process)</span>
+<ol>
+<li><span style=3D"color: rgb(0,0,128);">Authentication flag is set when th=
+e specified entity successfully passed authentication process by its parent=
+ (it done once, after registration).</span></li>
+<li><span style=3D"color: rgb(0,0,128);">Authorization flag will be set&nbs=
+p;automatically after successful authentication process.&nbsp;</span></li>
+<li><span style=3D"color: rgb(0,0,128);">Authorization flag is used to disa=
+ble an entity. this may be done by higher level permission entity.</span></=
+li>
+<li><span style=3D"color: rgb(0,0,128);">an entity may be unauthenticated a=
+nd unauthorized&nbsp; or,</span><br><span style=3D"color: rgb(0,0,128);">au=
+thenticated and authorized&nbsp; or,</span><br><span style=3D"color: rgb(0,=
+0,128);">authenticated and not authorized</span><br><span style=3D"color: r=
+gb(0,0,128);">but never, unauthenticated and authorized.</span></li>
+</ol></li>
+<li><span style=3D"color: rgb(0,0,128);">A data producer (entity with data-=
+user permissions) willing to declare an ownership over a data block:</span>
+<ol>
+<li><span style=3D"color: rgb(0,0,128);">will send a function call transact=
+ion named:&nbsp;registerHash() where the EM contract will verify sender acc=
+ount address and the hash number and (if successfully verified) will regist=
+er the hash in reference to the sender's account address.</span></li>
+</ol></li>
+</ol>
+<h2 id=3D"id-001EntityManagement(EM)Contract-FAQ"><span style=3D"color: rgb=
+(0,0,128);">FAQ</span></h2>
+<p><span style=3D"color: rgb(0,0,128);">Below is a list of questions and an=
+swers to be addressed as a result of this requirements document:</span></p>
+<div class=3D"table-wrap">
+<table class=3D"wrapped confluenceTable">
+<colgroup>
+<col style=3D"width: 390.0px;">
+<col style=3D"width: 1212.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh"><span style=3D"color: rgb(0,0,128);">Question</s=
+pan></th>
+<th class=3D"confluenceTh"><span style=3D"color: rgb(0,0,128);">Outcome</sp=
+an></th>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p><span style=3D"color: rgb(0,0,128);">Why we i=
+ncluded Data ownership registration mapping in EM contract?</span></p></td>
+<td class=3D"confluenceTd"><p><span style=3D"color: rgb(0,0,128);">We need =
+a single location where we can register and link between data-block's digit=
+al signature (keccak256(data))and owners account number. hence we use a Sol=
+idity Mapping to do that and we do it in EM contract because of:<br></span>=
+</p>
+<ol>
+<li><span style=3D"color: rgb(0,0,128);">Up till now,&nbsp; EM contract is =
+the single singleton contract.</span></li>
+<li><span style=3D"color: rgb(0,0,128);">To deploy a special contract just =
+to keep a single mapping table - will result unnecessary&nbsp;</span></li>
+</ol></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">What is an entity and why we use this title?</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p><span style=3D"color: rgb(0,0,1=
+28);">An Entity is anything capable of generating transactions and function=
+ calls, for example: data users (data producers/consumers), other contracts=
+, foundation owners, foundation administrators and service provider.</span>=
+</p></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">suggestions for contract/entity names:</span></td>
+<td colspan=3D"1" class=3D"confluenceTd">
+<ol>
+<li><span style=3D"color: rgb(0,0,128);">Permission Management (PM) Contrac=
+t&nbsp;</span></li>
+<li><span style=3D"color: rgb(0,0,128);">Entity Permission Management (EPM)=
+ Contract.</span></li>
+</ol></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">Why do we need EM contract?&nbsp;</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p><span style=3D"color: rgb(0,0,1=
+28);">EM Contract is the main contract in the network - it keeps a record p=
+er each (registered) account, a record which specify permission level and i=
+mportant indicators like Authorization and Authentication flags and parent =
+account of the record. EM contract also deploys other template contracts as=
+ needed.</span></p></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">How EM Contract will recognize users?</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p><span style=3D"color: rgb(0,0,1=
+28);">EM contract stores and recognizes only address numbers, accounts perm=
+ission level, account's parent account and flag indicators. In other words,=
+ the contract doesn't stores personal information.</span></p></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">Who keeps and where my personal information?</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p><span style=3D"color: rgb(0,0,1=
+28);">Personal information stored on KYC/AML servers of 3rd party service p=
+rovider</span></p></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;">What is the entity registration procedure?</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,128)=
+;"> ???</span></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">How reputation works ?</td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-001EntityManagement(EM)Contract-Questions"><span style=3D"colo=
+r: rgb(0,0,128);">Questions</span></h2>
+<p><span style=3D"color: rgb(0,0,128);">Below is a list of questions to be =
+addressed as a result of this requirements document:</span></p>
+<div class=3D"table-wrap">
+<table class=3D"wrapped confluenceTable">
+<colgroup>
+<col style=3D"width: 390.0px;">
+<col style=3D"width: 1212.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh"><span style=3D"color: rgb(0,0,128);">Question</s=
+pan></th>
+<th class=3D"confluenceTh"><span style=3D"color: rgb(0,0,128);">Outcome</sp=
+an></th>
+</tr>
+<tr>
+<td class=3D"confluenceTd">s</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-001EntityManagement(EM)Contract-Stories"><span style=3D"color:=
+ rgb(0,0,128);">Stories</span></h2>
+<p><span style=3D"color: rgb(0,0,128);">Below is a list user manual of the =
+contract:</span></p>
+<div class=3D"table-wrap">
+<table class=3D"wrapped relative-table confluenceTable" style=3D"width: 78.=
+5925%;">
+<colgroup>
+<col style=3D"width: 37.1067%;">
+<col style=3D"width: 62.7959%;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh"><span style=3D"color: rgb(0,0,128);">Story</span=
+></th>
+<th class=3D"confluenceTh"><span style=3D"color: rgb(0,0,128);">Notes</span=
+></th>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-001EntityManagement(EM)Contract-NotDoing"><span style=3D"color=
+: rgb(0,0,128);">Not Doing</span></h2>
+<ul>
+<li></li>
+</ul>
+    </div>
+</body>
+</html>
+------=_Part_76_2142198776.1529305712825--

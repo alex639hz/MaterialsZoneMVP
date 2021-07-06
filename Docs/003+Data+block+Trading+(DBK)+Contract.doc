@@ -1,0 +1,759 @@
+Message-ID: <2009064023.79.1529305736581@6848aae833b3>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_78_579829320.1529305736581"
+
+------=_Part_78_579829320.1529305736581
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>003 Data block Trading (DBK) Contract</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>003 Data block Trading (DBK) Contract</h1>
+    <div class=3D"Section1">
+        <div class=3D"plugin-tabmeta-details">
+<div class=3D"table-wrap">
+<table class=3D"wrapped confluenceTable">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh">Target release</th>
+<td class=3D"confluenceTd"></td>
+</tr>
+<tr>
+<th class=3D"confluenceTh">Epic</th>
+<td class=3D"confluenceTd"></td>
+</tr>
+<tr>
+<th class=3D"confluenceTh">Document status</th>
+<td class=3D"confluenceTd">
+<div class=3D"content-wrapper">
+<span class=3D"status-macro aui-lozenge">DRAFT</span>
+</div></td>
+</tr>
+<tr>
+<th class=3D"confluenceTh">Document owner</th>
+<td class=3D"confluenceTd">
+<div class=3D"content-wrapper">
+<p><a class=3D"confluence-userlink user-mention current-user-mention" data-=
+username=3D"alex.z" href=3D"/wiki/display/~alex.z" data-linked-resource-id=
+=3D"24248322" data-linked-resource-version=3D"1" data-linked-resource-type=
+=3D"userinfo" data-base-url=3D"https://materialszone.atlassian.net/wiki">Al=
+ex Zabolotniy</a></p>
+</div></td>
+</tr>
+<tr>
+<th class=3D"confluenceTh">Designer</th>
+<td class=3D"confluenceTd">
+<div class=3D"content-wrapper">
+<a class=3D"confluence-userlink user-mention current-user-mention" data-use=
+rname=3D"alex.z" href=3D"/wiki/display/~alex.z" data-linked-resource-id=3D"=
+24248322" data-linked-resource-version=3D"1" data-linked-resource-type=3D"u=
+serinfo" data-base-url=3D"https://materialszone.atlassian.net/wiki">Alex Za=
+bolotniy</a>
+</div></td>
+</tr>
+<tr>
+<th class=3D"confluenceTh">Developers</th>
+<td class=3D"confluenceTd">
+<div class=3D"content-wrapper">
+<a class=3D"confluence-userlink user-mention current-user-mention" data-use=
+rname=3D"alex.z" href=3D"/wiki/display/~alex.z" data-linked-resource-id=3D"=
+24248322" data-linked-resource-version=3D"1" data-linked-resource-type=3D"u=
+serinfo" data-base-url=3D"https://materialszone.atlassian.net/wiki">Alex Za=
+bolotniy</a>
+</div></td>
+</tr>
+<tr>
+<th class=3D"confluenceTh">QA</th>
+<td class=3D"confluenceTd"></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<h2 id=3D"id-003DatablockTrading(DBK)Contract-GeneralEconomyGoals"><span st=
+yle=3D"color: rgb(0,0,128);">General Economy Goals</span></h2>
+<ul>
+<li><span style=3D"color: rgb(0,0,128);">The goal of Solidity smart contrac=
+t(s) is to provide the smart economy to Sample Protocol. more specifically =
+to provide the below features:</span>
+<ul>
+<li><span style=3D"color: rgb(0,0,128);">User and data ownership registrati=
+on, user permission management (Entity Management - EM Contract).</span></l=
+i>
+<li><span style=3D"color: rgb(0,0,128);">Data trading and client protection=
+ (Data Block Trading - DBK Contract).</span></li>
+<li><span style=3D"color: rgb(0,0,128);">Partnership organization, shares a=
+llocation for each data block and funds spreading&nbsp;(Partnership - PTR C=
+ontract).</span></li>
+</ul></li>
+</ul>
+<h2 id=3D"id-003DatablockTrading(DBK)Contract-DBKContractGoals">DBK Contrac=
+t Goals</h2>
+<ul>
+<li>Trade data block (contract per Data block).</li>
+<li>Customer protection (receive and hold payments until verification or pe=
+riod of X days).</li>
+<li>Dispute mechanism (3rd party governance for dispute resolving).</li>
+<li>Integration to PTR contract (for funds spread between owners based on a=
+llocated shares).</li>
+</ul>
+<h2 id=3D"id-003DatablockTrading(DBK)Contract-Backgroundandstrategicfit"><s=
+>Background and strategic fit</s></h2>
+<h2 id=3D"id-003DatablockTrading(DBK)Contract-Assumptions">Assumptions</h2>
+<ul>
+<li>DBK Contract is a template Solidity contract for deployment per request=
+. (deployed by EM Contract).</li>
+<li>After a data user (registered entity in EM contract) registers a digita=
+l signature of his data block (in EM contract) then he allowed to request t=
+o deployment of a DBK contract for his data block to start trading.</li>
+</ul>
+<h2 id=3D"id-003DatablockTrading(DBK)Contract-Requirements">Requirements</h=
+2>
+<div class=3D"table-wrap">
+<table class=3D"relative-table wrapped confluenceTable" style=3D"width: 99.=
+9305%;">
+<colgroup>
+<col style=3D"width: 2.83925%;">
+<col style=3D"width: 16.5344%;">
+<col style=3D"width: 32.0668%;">
+<col style=3D"width: 7.51566%;">
+<col style=3D"width: 40.8629%;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh">#</th>
+<th class=3D"confluenceTh">Title (Type)</th>
+<th class=3D"confluenceTh">User Story</th>
+<th class=3D"confluenceTh">Importance</th>
+<th class=3D"confluenceTh">Notes</th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<th class=3D"highlight-yellow confluenceTh" style=3D"text-align: center;" c=
+olspan=3D"4" data-highlight-colour=3D"yellow"><strong>Data Types and Variab=
+les&nbsp;</strong></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" style=3D"text-align: left;">2</t=
+d>
+<th style=3D"text-align: left;" class=3D"confluenceTh"><strong>Request </st=
+rong><em>(Data structure)</em></th>
+<td class=3D"confluenceTd"><p>Request struct{} use to represents the income=
+ purchase request for data block</p>
+<hr><p><strong>Request.account&nbsp;</strong><em> (address type)&nbsp; -&nb=
+sp; &nbsp;holds the account number of the data consumer.</em></p>
+<hr><p><strong>Request.value&nbsp;&nbsp;</strong><em>(uint256 type)&nbsp; -=
+&nbsp; &nbsp;holds&nbsp;the amount sent with the request.</em></p>
+<hr><p><strong>Request.<strong>logTime&nbsp;</strong></strong><em>(uint256 =
+type)&nbsp; -&nbsp; &nbsp;holds the timestamp of the received request.</em>=
+</p>
+<hr><p><strong>Request.<strong>confirm&nbsp;</strong></strong><em>(bool typ=
+e)&nbsp; -&nbsp; &nbsp;holds the&nbsp;confirmation flag which raised by the=
+ consumer.</em></p>
+<hr><strong>Request.<strong>dispute&nbsp;</strong></strong><em>(bool type)&=
+nbsp; -&nbsp; &nbsp;holds the&nbsp;dispute flag</em><br>
+<hr></td>
+<td class=3D"confluenceTd">MUST</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">3</td>
+<th colspan=3D"1" class=3D"confluenceTh"><strong>requests </strong><em>(Req=
+uest[ ])</em></th>
+<td colspan=3D"1" class=3D"confluenceTd">Stores all (pending) purchase requ=
+ests in an array</td>
+<td colspan=3D"1" class=3D"confluenceTd">Must</td>
+<td colspan=3D"1" class=3D"confluenceTd">Pending request which are received=
+, verified and saved but still not confirmed by the data consumer</td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">4</td>
+<th colspan=3D"1" class=3D"confluenceTh"><p><strong>consumerAddressToReques=
+tIdx</strong></p><p><em>(mapping(address=3D&gt;uint256))</em></p></th>
+<td colspan=3D"1" class=3D"confluenceTd">Address to index converter</td>
+<td colspan=3D"1" class=3D"confluenceTd">Must</td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">5</td>
+<th colspan=3D"1" class=3D"confluenceTh"><strong>EMAddress</strong><em> (ad=
+dress)</em></th>
+<td colspan=3D"1" class=3D"confluenceTd">Variable to EM contract address</t=
+d>
+<td colspan=3D"1" class=3D"confluenceTd">Must</td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">6</td>
+<th colspan=3D"1" class=3D"confluenceTh"><p><strong>EMContract </strong></p=
+><p><em>(contract object)</em></p></th>
+<td colspan=3D"1" class=3D"confluenceTd">Variable to EM contract object</td=
+>
+<td colspan=3D"1" class=3D"confluenceTd">Must</td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">7</td>
+<th colspan=3D"1" class=3D"confluenceTh"><strong>datablockOwner </strong><e=
+m>(address)</em></th>
+<td colspan=3D"1" class=3D"confluenceTd">Account number of data-block owner=
+(s)</td>
+<td colspan=3D"1" class=3D"confluenceTd">Must</td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">8</td>
+<th colspan=3D"1" class=3D"confluenceTh"><strong>datablockHash</strong><em>=
+ (bytes32)</em></th>
+<td colspan=3D"1" class=3D"confluenceTd">Digital signature of the data bloc=
+k (keccak256)</td>
+<td colspan=3D"1" class=3D"confluenceTd">Must</td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">9</td>
+<th colspan=3D"1" class=3D"confluenceTh"><strong>datablockPrice </strong><e=
+m>(uint256)</em></th>
+<td colspan=3D"1" class=3D"confluenceTd">The price for the data block</td>
+<td colspan=3D"1" class=3D"confluenceTd">Must</td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">10</td>
+<th colspan=3D"1" class=3D"confluenceTh"><strong>daysLimit </strong><em>(ui=
+nt256)</em></th>
+<td colspan=3D"1" class=3D"confluenceTd">Period of days before auto confirm=
+ation</td>
+<td colspan=3D"1" class=3D"confluenceTd">Must</td>
+<td colspan=3D"1" class=3D"confluenceTd">Keeps the received funds from the =
+specific data consumer for confirmation period of time - if no dispute occu=
+rs the funds will be released to data block owner.&nbsp;</td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">11</td>
+<th colspan=3D"1" class=3D"confluenceTh"><strong>CounterPurchased </strong>=
+<em>(uint256)</em></th>
+<td colspan=3D"1" class=3D"confluenceTd">Counter for total data-block purch=
+ases</td>
+<td colspan=3D"1" class=3D"confluenceTd">Must</td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">12</td>
+<th colspan=3D"1" class=3D"confluenceTh"><strong>CounterDisputed </strong><=
+em>(uint256)</em></th>
+<td colspan=3D"1" class=3D"confluenceTd">Counter for total purchase dispute=
+s</td>
+<td colspan=3D"1" class=3D"confluenceTd">Must</td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">13</td>
+<th colspan=3D"1" class=3D"confluenceTh"><strong>idx </strong><em>(uint256)=
+</em></th>
+<td colspan=3D"1" class=3D"confluenceTd">Index pointer to <strong>requests<=
+/strong> array</td>
+<td colspan=3D"1" class=3D"confluenceTd">Must</td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">14</td>
+<th class=3D"highlight-yellow confluenceTh" style=3D"text-align: center;" c=
+olspan=3D"4" data-highlight-colour=3D"yellow"><strong>Events</strong></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">15</td>
+<th colspan=3D"1" class=3D"confluenceTh"><strong>LogConfirmation</strong>()=
+</th>
+<td colspan=3D"1" class=3D"confluenceTd">Log event when purchase confirmati=
+on received.</td>
+<td colspan=3D"1" class=3D"confluenceTd">Must</td>
+<td colspan=3D"1" class=3D"confluenceTd">Arguments:&nbsp;(address _sender,u=
+int256 _idx)</td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">16</td>
+<th colspan=3D"1" class=3D"confluenceTh"><strong>LogDispute</strong>()</th>
+<td colspan=3D"1" class=3D"confluenceTd">Log event if data consumer raised =
+a dispute.</td>
+<td colspan=3D"1" class=3D"confluenceTd">Must</td>
+<td colspan=3D"1" class=3D"confluenceTd">Arguments: (address _sender)</td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">17</td>
+<th colspan=3D"1" class=3D"confluenceTh"><strong>LogWithdraw</strong>()</th=
+>
+<td colspan=3D"1" class=3D"confluenceTd">Log when withdraw completed.</td>
+<td colspan=3D"1" class=3D"confluenceTd">Must</td>
+<td colspan=3D"1" class=3D"confluenceTd">Arguments:&nbsp;(address _consumer=
+)</td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">18</td>
+<th colspan=3D"1" class=3D"confluenceTh"><strong>LogBuyRequest</strong>()</=
+th>
+<td colspan=3D"1" class=3D"confluenceTd">Log when a new purchase request is=
+ received.</td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd">Arguments:&nbsp;(address indexed _=
+sender)</td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">19</td>
+<th colspan=3D"1" class=3D"confluenceTh"><strong>LogNewDBK</strong>()</th>
+<td colspan=3D"1" class=3D"confluenceTd">Log when new DBK contract is deplo=
+yed.</td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd">Arguments:&nbsp;(address indexed _=
+owner, bytes32 _hash)</td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">20</td>
+<th class=3D"highlight-yellow confluenceTh" style=3D"text-align: center;" c=
+olspan=3D"4" data-highlight-colour=3D"yellow"><strong>Modifiers Functions</=
+strong></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">21</td>
+<th colspan=3D"1" class=3D"confluenceTh"><strong>datablockOwnerOnly</strong=
+>()</th>
+<td colspan=3D"1" class=3D"confluenceTd">Limit function call to data block =
+owner only</td>
+<td colspan=3D"1" class=3D"confluenceTd">Must</td>
+<td colspan=3D"1" class=3D"confluenceTd">Arguments:&nbsp;(address _acc)&nbs=
+p;</td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">22</td>
+<th colspan=3D"1" class=3D"confluenceTh"><strong>dataConsumerOnly</strong>(=
+)</th>
+<td colspan=3D"1" class=3D"confluenceTd">Limit function call to data consum=
+er only (consumer is considered a data user who successfully purchased the =
+data block)</td>
+<td colspan=3D"1" class=3D"confluenceTd">???</td>
+<td colspan=3D"1" class=3D"confluenceTd">Arguments:&nbsp;(address _acc)</td=
+>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">23</td>
+<th colspan=3D"1" class=3D"confluenceTh"><strong>requestOwnerOnly</strong>(=
+)</th>
+<td colspan=3D"1" class=3D"confluenceTd">Limit function call to (data-block=
+) purchase request owner Only</td>
+<td colspan=3D"1" class=3D"confluenceTd">Must</td>
+<td colspan=3D"1" class=3D"confluenceTd">Arguments:&nbsp;(address _acc)&nbs=
+p;</td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">24</td>
+<th class=3D"highlight-yellow confluenceTh" style=3D"text-align: center;" c=
+olspan=3D"4" data-highlight-colour=3D"yellow"><strong>Functions&nbsp;</stro=
+ng></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" style=3D"text-align: center;" co=
+lspan=3D"1">25</td>
+<th style=3D"text-align: left;" colspan=3D"1" class=3D"confluenceTh"><stron=
+g>constructor()</strong></th>
+<td colspan=3D"1" class=3D"confluenceTd">Constructor function.&nbsp;</td>
+<td colspan=3D"1" class=3D"confluenceTd">Must</td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Arguments:&nbsp;(address _ptr, =
+bytes32 _hash),<br>Modifiers: (public, payable, dataUserOnly(msg.sender))<b=
+r>Returns (bool success)</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">26</td>
+<th colspan=3D"1" class=3D"confluenceTh"><strong>kill</strong>()</th>
+<td colspan=3D"1" class=3D"confluenceTd">Destructor function</td>
+<td colspan=3D"1" class=3D"confluenceTd">Must</td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">27</td>
+<th colspan=3D"1" class=3D"confluenceTh">()</th>
+<td colspan=3D"1" class=3D"confluenceTd">Payback function</td>
+<td colspan=3D"1" class=3D"confluenceTd">Must</td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">28</td>
+<th colspan=3D"1" class=3D"confluenceTh"><strong>purchaseRequest</strong>()=
+</th>
+<td colspan=3D"1" class=3D"confluenceTd"><p class=3D"auto-cursor-target">Se=
+nd a function call transaction to DBK contract to purchase a data block.</p=
+></td>
+<td colspan=3D"1" class=3D"confluenceTd">Must</td>
+<td colspan=3D"1" class=3D"confluenceTd"><p class=3D"auto-cursor-target">Ar=
+guments:&nbsp;(No),<br>Modifiers: (public, payable, dataUserOnly(msg.sender=
+))<br>Returns (bool success)</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">29</td>
+<th colspan=3D"1" class=3D"confluenceTh">withdrawAll()</th>
+<td colspan=3D"1" class=3D"confluenceTd"><p class=3D"auto-cursor-target">Wi=
+thdraw all confirmed payments from the contract.</p></td>
+<td colspan=3D"1" class=3D"confluenceTd">Must</td>
+<td colspan=3D"1" class=3D"confluenceTd"><p class=3D"auto-cursor-target">Ar=
+guments:&nbsp;(No),<br>Modifiers: (public, payable, datablockOwnerOnly(msg.=
+sender))<br>Returns&nbsp;(bool success)</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">30</td>
+<th colspan=3D"1" class=3D"confluenceTh">withdraw()</th>
+<td colspan=3D"1" class=3D"confluenceTd"><p class=3D"auto-cursor-target">Wi=
+thdraw payment from specific purchase using request index.</p></td>
+<td colspan=3D"1" class=3D"confluenceTd">Must</td>
+<td colspan=3D"1" class=3D"confluenceTd"><p class=3D"auto-cursor-target">Ar=
+guments:&nbsp;(uint256 _idx),<br>Modifiers: (public, payable, datablockOwne=
+rOnly(msg.sender))<br>Returns&nbsp;(bool success)</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">31</td>
+<th colspan=3D"1" class=3D"confluenceTh">disputeOpen()</th>
+<td colspan=3D"1" class=3D"confluenceTd">Data consumer will call this funct=
+ion to raise a dispute.</td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p class=3D"auto-cursor-target">Ar=
+guments:&nbsp;(No),<br>Modifiers: (public, payable, requestOwnerOnly(msg.se=
+nder))<br>Returns&nbsp;(bool success)</p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">32</td>
+<th colspan=3D"1" class=3D"confluenceTh">disputeCloseAndConfirm()</th>
+<td colspan=3D"1" class=3D"confluenceTd">Data consumer will call this funct=
+ion to raise a dispute.</td>
+<td colspan=3D"1" class=3D"confluenceTd">Must</td>
+<td colspan=3D"1" class=3D"confluenceTd">No Arguments:&nbsp;()</td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">33</td>
+<th colspan=3D"1" class=3D"confluenceTh">purchaseConfirm()</th>
+<td colspan=3D"1" class=3D"confluenceTd">Data consumer will confirm the pur=
+chase, allowing the data owner to withdraw the payment.</td>
+<td colspan=3D"1" class=3D"confluenceTd">Must</td>
+<td colspan=3D"1" class=3D"confluenceTd">No Arguments:&nbsp;()</td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">34</td>
+<th colspan=3D"1" class=3D"confluenceTh">changeOwner()</th>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd">Must</td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>No Arguments:&nbsp;(address _ne=
+wAcc)<br>Modifiers: (public, payable, datablockOwnerOnly(msg.sender))<br>Re=
+turns&nbsp;(bool success)</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-003DatablockTrading(DBK)Contract-Userinteractionanddesign">Use=
+r interaction and design</h2>
+<ol>
+<li>The DBK contract deployed for data owner account address (which is PTR =
+contract account) and for specific data block signature (which must be regi=
+stered in EM contract first)</li>
+<li>Purchase process:
+<ol>
+<li>Data consumer will generate function call transaction with the specifie=
+d price&nbsp;</li>
+<li>DBK contract will verify the consumer and price, push the request to re=
+quests buffer and generate event on the blockchain.</li>
+<li>DBK will also hold the received funds till one of two confirmations occ=
+urs:
+<ol>
+<li>A period of X days was passed</li>
+<li>Received confirmation from the consumer</li>
+</ol></li>
+</ol></li>
+<li>Generate <em>LogConfirmation</em> event on the blockchain&nbsp;</li>
+<li>Set the confirmed request in requests buffer to allow data owner to wit=
+hdraw the funds.</li>
+<li>Data owner withdraws the funds</li>
+</ol>
+<h2 id=3D"id-003DatablockTrading(DBK)Contract-Questions">Questions</h2>
+<p>Below is a list of questions to be addressed as a result of this require=
+ments document:</p>
+<div class=3D"table-wrap">
+<table class=3D"wrapped confluenceTable">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh">Question</th>
+<th class=3D"confluenceTh">Outcome</th>
+</tr>
+<tr>
+<td class=3D"confluenceTd">What does data producer need to trade a data blo=
+ck?</td>
+<td class=3D"confluenceTd">
+<ol>
+<li>To be registered as data user (in EM contract)&nbsp;&nbsp;</li>
+<li>To be registered as hash owner (in EM contract)</li>
+<li>Request from EM contract to deploy a DBK contract</li>
+</ol></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">What kind of information DBK contr=
+act holds?</td>
+<td colspan=3D"1" class=3D"confluenceTd">
+<ul>
+<li>Digital signature of the traded data block</li>
+<li>Account address number of owner's PTR contract</li>
+</ul></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">How DBK contract protects consumer=
+s?</td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>DBK contract holds ALL income t=
+ransaction till confirmation from the data consumer:</p><p>When data consum=
+er transfers payment to a DBK a request is added to an unconfirmed-request =
+buffer and the payment stays in the contract account.</p><p>DBK also genera=
+tes an event on the blockchain notifying a new data-block purchase request.=
+ after consumer receives data block, he will confirm the request and the da=
+ta producer will be able to pull the payment for the specific request. the =
+consumer has a period of&nbsp; _X_&nbsp; days to confirm the purchase or ra=
+ise a dispute:</p>
+<ol>
+<li>If request is confirmed by the consumer then the payment is ready to be=
+ pulled by the data owner</li>
+<li>If dispute is raised then the payment is looked until dispute resolved.=
+&nbsp;</li>
+</ol></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-003DatablockTrading(DBK)Contract-NotDoing">Not Doing</h2>
+<ul>
+<li></li>
+</ul>
+    </div>
+</body>
+</html>
+------=_Part_78_579829320.1529305736581--

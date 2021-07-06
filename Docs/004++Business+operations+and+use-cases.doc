@@ -1,0 +1,479 @@
+Message-ID: <1017837756.81.1529305805549@6848aae833b3>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_80_2108724189.1529305805548"
+
+------=_Part_80_2108724189.1529305805548
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>004  Business operations and use-cases</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>004  Business operations and use-cases</h1>
+    <div class=3D"Section1">
+        <h1 id=3D"id-004Businessoperationsanduse-cases-EconomyUseCases"><u>=
+Economy Use Cases</u></h1>
+<p>As Sample Protocol based on Ethereum blockchain, we use its financial te=
+rminology like accounts and account numbers, transactions and (smart) contr=
+acts.</p>
+<p>Sample Protocol also uses its own terminology:</p>
+<p>Data-block - is the smallest data package which may be indexed, curated =
+and traded.&nbsp;<br>Data-consumer - is the account which purchases data bl=
+ock.<br>Data-producer - is the account which sells data block.</p>
+<p><br></p>
+<hr>
+<p>Sample Protocol is a data marketplace which provides its users the infra=
+structure to:</p>
+<ul>
+<li>Register scientific data as Intellectual Property.</li>
+<li>Store scientific data secured online.</li>
+<li>Sell license to use scientific data.</li>
+<li>Manage partnerships and allocate shares for each partner/shareholder</l=
+i>
+<li>Transfer entities shares&nbsp; &nbsp;</li>
+<li>Assign ownership of&nbsp;scientific data</li>
+</ul>
+<hr>
+<p>Sample-Protocol operated by the below contracts:</p>
+<ol>
+<li>Entity management (EM) contract - manages entities (which are types of =
+users)&nbsp; and their permissions.</li>
+<li>Partnership (PTR) contract - manages partnership between different data=
+-producers over their data-block.</li>
+<li>Data-block Trading (DBK) contract - manages and executes datablock trad=
+ing, protects purchase and stores a reference to owner account (PTR contrac=
+t).</li>
+</ol>
+<p>Short description of the above contracts:</p>
+<ol>
+<li>EM contract - Manages a list of accounts numbers and their related para=
+meters. This contract provides the below functionality:
+<ul>
+<li>Entity and their permissions, which may be one of the list below:
+<ul>
+<li>Foundation Owner</li>
+<li>Foundation Admin</li>
+<li>Service Provider</li>
+<li>Data User&nbsp;</li>
+</ul></li>
+<li>Deployment of other contracts (PTR/DBK contracts)</li>
+<li>Increase/decrease entity reputation</li>
+<li>Increase/decrease data reputation</li>
+<li><s>Increase/decrease group reputation</s></li>
+<li>Authorize/unauthorized entities<br><br></li>
+</ul></li>
+<li>PTR contract - Manages a list of&nbsp;account numbers and their shares =
+(in a specific partnership).&nbsp;This contract provides the below function=
+ality:
+<ul>
+<li>Create a list of shareholders and allocate their shares.</li>
+<li>Transfer shares between entities.</li>
+<li>Allocate new shares (dilution).</li>
+<li>Calculate partnership reputation (average reputation of its members).<b=
+r><br></li>
+</ul></li>
+<li>DBK contract - provide the data trading contract. This contract provide=
+s the below functionality:
+<ul>
+<li>Ownership over a data-block (Intellectual Property) registration.</li>
+<li>Data purchase and consumer protection.</li>
+<li>Increase/decrease data reputation.</li>
+<li>Change data owner.<br><br></li>
+</ul></li>
+</ol>
+<hr>
+<p><strong><br>Use case: Genesis registration</strong><br>In order to start=
+ the economy we need an address of an Ethereum account. This account will b=
+e the Genesis foundation-owner.</p>
+<p>note: their is no differences between foundation-owner and genesis found=
+ation-owner except the fact that one of them was registered before the othe=
+r.</p>
+<p>Genesis deployment and registration are the beginning of Sample-Protocol=
+ economy:&nbsp;</p>
+<ul>
+<li>The Economy starts with the deployment of EM contract.</li>
+<li>The&nbsp;Genesis foundation-owner which deployed the contract becomes t=
+he first foundation-owner entity.</li>
+<li>After the contract deployment and foundation-owner registration are com=
+pleted, new entities may be added.</li>
+</ul>
+<p><br></p>
+<p><strong>Use case: Foundation owner Registration<br></strong>Foundation-o=
+wner registration is the procedure of adding&nbsp;new entity (to EM contrac=
+t) with foundation-owner permissions. Needed for:</p>
+<ul>
+<li>Highest governance&nbsp;</li>
+<li>Foundation-admin registration</li>
+</ul>
+<p><strong><br>Use case: Foundation admin Registration<br></strong>Foundati=
+on Admin registration is the&nbsp;procedure of adding new entity&nbsp;(to E=
+M contract) with Foundation Admin permissions. Needed for:</p>
+<ul>
+<li>Middle Governance&nbsp;</li>
+<li>Reduce foundation owners' daily involvement</li>
+<li>Register service providers</li>
+</ul>
+<p><br></p>
+<p><strong>Use case: Service provider Registration<br></strong>Service Prov=
+ider registration is the&nbsp;procedure of adding new entity&nbsp;(to EM co=
+ntract) with service-provider permissions. Needed for:</p>
+<ol>
+<li>Data users KYC procedure&nbsp;</li>
+<li>Data users registration</li>
+<li>Network Support
+<ul>
+<li>Operate nodes.</li>
+<li>Data operation (like search and curate scientific data).</li>
+<li>Front end + back end.&nbsp;</li>
+<li>Data base integration.<br><br></li>
+</ul></li>
+</ol>
+<p><strong>Use case: Data-user Registration<br></strong>Data-user registrat=
+ion is the&nbsp;procedure of adding new entity&nbsp;(to EM contract) with D=
+ata-user permissions.&nbsp;Needed for:</p>
+<ul>
+<li>Consume scientific data&nbsp;(purchase data).</li>
+<li>Produce scientific data&nbsp;(sell data).<br><br></li>
+</ul>
+<p><strong>Use case: upload scientific data<br></strong>Data users can uplo=
+ad data onto the marketplace for trade:</p>
+<ul>
+<li>Data producer sends a request (to EM contract) to generate PTR contract=
+.</li>
+<li>Data Producer sends a request (to EM contract) to generate DBK contract=
+ (with a references to a PTR contract address and data's digital signature)=
+.</li>
+<li>Upload data-block.<br><br></li>
+</ul>
+<p><strong>Use case: sell/purchase scientific data<br></strong>Data users c=
+an purchase data from the marketplace. Sample Protocol allows data trading =
+through DBK contract.</p>
+<ul>
+<li>Data producer sends a request (to EM contract) to generate PTR contract=
+.</li>
+<li>Data Producer sends a request (to EM contract) to generate DBK contract=
+ with a references of a PTR contract address and data's digital signature.<=
+/li>
+<li>upload the claim/proof to service provider (based on the storage techni=
+que selected by the data producer)</li>
+</ul>
+<p><br></p>
+<hr>
+<div class=3D"table-wrap">
+<table class=3D"wrapped confluenceTable">
+<colgroup>
+<col style=3D"width: 178.0px;">
+<col style=3D"width: 227.0px;">
+<col style=3D"width: 402.0px;">
+<col style=3D"width: 618.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh">As a/an...</th>
+<th class=3D"confluenceTh">I want to...</th>
+<th class=3D"confluenceTh">So that...</th>
+<th class=3D"confluenceTh">Comment</th>
+</tr>
+<tr>
+<td class=3D"confluenceTd">First&nbsp; foundation-owner&nbsp;(Genesis)</td>
+<td class=3D"confluenceTd">Deploy EM contract</td>
+<td class=3D"confluenceTd">Sample Protocol will begin execution.</td>
+<td class=3D"confluenceTd">That's the Big-Bang of Sample-Protocols economy<=
+/td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">Foundation-owner</td>
+<td class=3D"confluenceTd">Add new foundation owner</td>
+<td class=3D"confluenceTd">Expand foundation owners group.</td>
+<td class=3D"confluenceTd">When more than 1 foundation owners exist, a &gt;=
+50% consensus must be achieved for this operation</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">Foundation-owner</td>
+<td class=3D"confluenceTd">Add new foundation admin</td>
+<td class=3D"confluenceTd">Foundation admin will handle daily tasks.</td>
+<td class=3D"confluenceTd">Foundation Admin's goal is to reduce daily workl=
+oad from foundation owners</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">Foundation-admin</td>
+<td colspan=3D"1" class=3D"confluenceTd">Add new service provider</td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Service provider will support t=
+he network and handle data users.</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">Service-provider</td>
+<td colspan=3D"1" class=3D"confluenceTd">Support Sample-Protocol network&nb=
+sp;</td>
+<td colspan=3D"1" class=3D"confluenceTd">Allow more computing power, distri=
+bution and economy load.</td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">Service-provider</td>
+<td colspan=3D"1" class=3D"confluenceTd">Add new data-users</td>
+<td colspan=3D"1" class=3D"confluenceTd">Data user will be able to produce/=
+consume scientific data to/from the marketplace.</td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">Data-user (producer)</td>
+<td colspan=3D"1" class=3D"confluenceTd">Upload data to marketplace.</td>
+<td colspan=3D"1" class=3D"confluenceTd">The data will be trad-able on the =
+scientific data marketplace&nbsp;</td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">Data-user (consumer)</td>
+<td colspan=3D"1" class=3D"confluenceTd">Search data using parametric searc=
+h</td>
+<td colspan=3D"1" class=3D"confluenceTd">Sample Protocol will display the b=
+est results for my search.</td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd">Purchase data from the marketplace=
+.</td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">Group of Data-users</td>
+<td colspan=3D"1" class=3D"confluenceTd">create partnership and allocate sh=
+ares in it.&nbsp;</td>
+<td colspan=3D"1" class=3D"confluenceTd">All income to this partnership wil=
+l be spread between the shareholders in relation to their shares.</td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><br></p>
+<hr>
+<p><br></p>
+    </div>
+</body>
+</html>
+------=_Part_80_2108724189.1529305805548--

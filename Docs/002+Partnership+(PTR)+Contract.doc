@@ -1,0 +1,584 @@
+Message-ID: <1062760528.79.1529305725659@283bed84d3cb>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_78_736166574.1529305725659"
+
+------=_Part_78_736166574.1529305725659
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>002 Partnership (PTR) Contract</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>002 Partnership (PTR) Contract</h1>
+    <div class=3D"Section1">
+        <div class=3D"plugin-tabmeta-details">
+<div class=3D"table-wrap">
+<table class=3D"wrapped confluenceTable">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh">Target release</th>
+<td class=3D"confluenceTd"></td>
+</tr>
+<tr>
+<th class=3D"confluenceTh">Epic</th>
+<td class=3D"confluenceTd"></td>
+</tr>
+<tr>
+<th class=3D"confluenceTh">Document status</th>
+<td class=3D"confluenceTd">
+<div class=3D"content-wrapper">
+<span class=3D"status-macro aui-lozenge">DRAFT</span>
+</div></td>
+</tr>
+<tr>
+<th class=3D"confluenceTh">Document owner</th>
+<td class=3D"confluenceTd">
+<div class=3D"content-wrapper">
+<p><a class=3D"confluence-userlink user-mention current-user-mention" data-=
+username=3D"alex.z" href=3D"/wiki/display/~alex.z" data-linked-resource-id=
+=3D"24248322" data-linked-resource-version=3D"1" data-linked-resource-type=
+=3D"userinfo" data-base-url=3D"https://materialszone.atlassian.net/wiki">Al=
+ex Zabolotniy</a></p>
+</div></td>
+</tr>
+<tr>
+<th class=3D"confluenceTh">Designer</th>
+<td class=3D"confluenceTd"><a class=3D"confluence-userlink user-mention cur=
+rent-user-mention" data-username=3D"alex.z" href=3D"/wiki/display/~alex.z" =
+data-linked-resource-id=3D"24248322" data-linked-resource-version=3D"1" dat=
+a-linked-resource-type=3D"userinfo" data-base-url=3D"https://materialszone.=
+atlassian.net/wiki">Alex Zabolotniy</a></td>
+</tr>
+<tr>
+<th class=3D"confluenceTh">Developers</th>
+<td class=3D"confluenceTd"><a class=3D"confluence-userlink user-mention cur=
+rent-user-mention" data-username=3D"alex.z" href=3D"/wiki/display/~alex.z" =
+data-linked-resource-id=3D"24248322" data-linked-resource-version=3D"1" dat=
+a-linked-resource-type=3D"userinfo" data-base-url=3D"https://materialszone.=
+atlassian.net/wiki">Alex Zabolotniy</a></td>
+</tr>
+<tr>
+<th class=3D"confluenceTh">QA</th>
+<td class=3D"confluenceTd"></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<h2 id=3D"id-002Partnership(PTR)Contract-GeneralEconomyGoals"><span style=
+=3D"color: rgb(0,0,128);">General Economy Goals</span></h2>
+<ul>
+<li><span style=3D"color: rgb(0,0,128);">The goal of Solidity smart contrac=
+t(s) is to provide the smart economy to Sample Protocol. more specifically =
+to provide the below features:</span>
+<ul>
+<li><span style=3D"color: rgb(0,0,128);">User and data ownership registrati=
+on, user permission management (Entity Management - EM Contract).</span></l=
+i>
+<li><span style=3D"color: rgb(0,0,128);">Data trading and client protection=
+ (Data Block Trading - DBK Contract).</span></li>
+<li><span style=3D"color: rgb(0,0,128);">Partnership organization, shares a=
+llocation for each data block and funds spreading&nbsp;(Partnership - PTR C=
+ontract).</span></li>
+</ul></li>
+</ul>
+<h2 id=3D"id-002Partnership(PTR)Contract-Partnership(PTR)ContractGoals">Par=
+tnership (PTR) Contract Goals</h2>
+<ul>
+<li>Manage shareholders and their shares:
+<ul>
+<li>Allocate shares at deployment stage</li>
+<li>Transfer shares after allocation</li>
+<li>Allocate more shares (dilute existing shareholders)</li>
+</ul></li>
+<li>Spread funds between shareholders of the contract (related to their sha=
+res).</li>
+<li>Calculate group reputation based on individual shareholders' reputation=
+.</li>
+</ul>
+<h2 id=3D"id-002Partnership(PTR)Contract-Backgroundandstrategicfit">Backgro=
+und and strategic fit</h2>
+<p></p>
+<h2 id=3D"id-002Partnership(PTR)Contract-Assumptions">Assumptions</h2>
+<ul>
+<li></li>
+</ul>
+<h2 id=3D"id-002Partnership(PTR)Contract-Requirements">Requirements</h2>
+<div class=3D"table-wrap">
+<table class=3D"wrapped confluenceTable">
+<colgroup>
+<col style=3D"width: 37.0px;">
+<col style=3D"width: 161.0px;">
+<col style=3D"width: 409.0px;">
+<col style=3D"width: 97.0px;">
+<col style=3D"width: 396.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"numberingColumn confluenceTh">#</th>
+<th class=3D"confluenceTh">Title (type)</th>
+<th class=3D"confluenceTh">User Story</th>
+<th class=3D"confluenceTh">Importance</th>
+<th class=3D"confluenceTh">Notes</th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">1</td>
+<th class=3D"highlight-yellow confluenceTh" style=3D"text-align: center;" c=
+olspan=3D"4" data-highlight-colour=3D"yellow"><strong style=3D"text-align: =
+center;">Data types and variables</strong></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd">2</td>
+<th class=3D"confluenceTh">&nbsp;Shareholder<br>&nbsp;<em>(Data Type)</em><=
+/th>
+<td class=3D"confluenceTd"><p>Shareholder data structure represents a singl=
+e owner in the contract.</p>
+<hr><p><strong>Shareholder.account</strong> <em>(address)&nbsp; -&nbsp;&nbs=
+p; account number of the specific owner.</em></p>
+<hr><p><strong>Shareholder.shares</strong><em>(uint256)&nbsp; -&nbsp;&nbsp;=
+allocated shares for the specific owner.</em></p></td>
+<td class=3D"confluenceTd">Must</td>
+<td class=3D"confluenceTd"><p>Type: Data structure</p><p>struct Shareholder=
+{<br>&nbsp; &nbsp; address account;<br>&nbsp; &nbsp; uint256 shares; <br>}<=
+/p></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">3</td>
+<th colspan=3D"1" class=3D"confluenceTh">shareholders<br>(Variable)</th>
+<td colspan=3D"1" class=3D"confluenceTd">Stores an iterate-able list of sha=
+reholder accounts and their shares.</td>
+<td colspan=3D"1" class=3D"confluenceTd">Must</td>
+<td colspan=3D"1" class=3D"confluenceTd"><em>Type: Shareholder[ ]&nbsp;<br>=
+Attributes: private<br></em></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">4</td>
+<th colspan=3D"1" class=3D"confluenceTh"><strong>holderAddressToIdx<br></st=
+rong><strong>(Variable)</strong></th>
+<td colspan=3D"1" class=3D"confluenceTd">Stores a mapping of shareholder ad=
+dress to its index in <strong>shareholders</strong> list.</td>
+<td colspan=3D"1" class=3D"confluenceTd">Must</td>
+<td colspan=3D"1" class=3D"confluenceTd"><em>Type: mapping (address=3D&gt;u=
+int256)<br></em>Attributes: private</td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">5</td>
+<th colspan=3D"1" class=3D"confluenceTh">allocationRequestTable<br>(Variabl=
+e)</th>
+<td colspan=3D"1" class=3D"confluenceTd">Stores new shares allocation reque=
+sts and given approvals per request.</td>
+<td colspan=3D"1" class=3D"confluenceTd">Must</td>
+<td colspan=3D"1" class=3D"confluenceTd"><em>Type: </em>mapping (address =
+=3D&gt; Shareholder[])<br>Attributes: private</td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">6</td>
+<th colspan=3D"1" class=3D"confluenceTh"><strong>totalShares&nbsp;<br>(Vari=
+able)</strong></th>
+<td colspan=3D"1" class=3D"confluenceTd">Stores total amount of allocated s=
+hares</td>
+<td colspan=3D"1" class=3D"confluenceTd">Must</td>
+<td colspan=3D"1" class=3D"confluenceTd"><em>Type: uint256<br>Attributes: p=
+rivate<br></em></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">7</td>
+<th colspan=3D"1" class=3D"confluenceTh">EM</th>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">8</td>
+<th class=3D"highlight-yellow confluenceTh" style=3D"text-align: center;" c=
+olspan=3D"4" data-highlight-colour=3D"yellow"><strong>Event</strong></th>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">9</td>
+<th colspan=3D"1" class=3D"confluenceTh"><strong>LogDeposit</strong>()</th>
+<td colspan=3D"1" class=3D"confluenceTd"><p class=3D"auto-cursor-target" st=
+yle=3D"text-align: left;">Log an event for depositing to the contract. Depo=
+siting means to transfer funds to the contract without calling any specific=
+ function.</p></td>
+<td colspan=3D"1" class=3D"confluenceTd">Must</td>
+<td colspan=3D"1" class=3D"confluenceTd">Arguments:&nbsp;(address _src,uint=
+256 _value)</td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">10</td>
+<th colspan=3D"1" class=3D"confluenceTh"><strong>LogChangeOwnership</strong=
+>()</th>
+<td colspan=3D"1" class=3D"confluenceTd">Log an event when data-block owner=
+ship is updated</td>
+<td colspan=3D"1" class=3D"confluenceTd">Must</td>
+<td colspan=3D"1" class=3D"confluenceTd">Arguments: (address _src,address _=
+dest,uint256 _value)</td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">11</td>
+<th class=3D"highlight-yellow confluenceTh" style=3D"text-align: center;" c=
+olspan=3D"4" data-highlight-colour=3D"yellow"><strong>Modifiers</strong></t=
+h>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">12</td>
+<th colspan=3D"1" class=3D"confluenceTh"><strong><s>partnerOnly</s>()</stro=
+ng></th>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><strong><span style=3D"color: rgb(=
+255,0,0);">disabled</span></strong></td>
+<td colspan=3D"1" class=3D"confluenceTd"><s>Arguments: address _acc</s></td=
+>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">13</td>
+<th colspan=3D"1" class=3D"confluenceTh"><br></th>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">14</td>
+<th colspan=3D"1" class=3D"confluenceTh"><br></th>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">15</td>
+<th class=3D"highlight-yellow confluenceTh" style=3D"text-align: center;" c=
+olspan=3D"4" data-highlight-colour=3D"yellow"><strong>Functions</strong></t=
+h>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">16</td>
+<th colspan=3D"1" class=3D"confluenceTh">constructor()</th>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Contract constructor</p><p>what=
+ does it construct?</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Must</p></td>
+<td colspan=3D"1" class=3D"confluenceTd">Arguments:&nbsp;Shareholder[] _own=
+ers<br>Modifiers: public, payable<br>Returns:&nbsp; Disabled</td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">17</td>
+<th colspan=3D"1" class=3D"confluenceTh"><span style=3D"color: rgb(0,0,0);"=
+>kill()</span></th>
+<td colspan=3D"1" class=3D"confluenceTd"><s>consensus is required. say 80% =
+must agree on the operation</s></td>
+<td colspan=3D"1" class=3D"confluenceTd"><strong><span style=3D"color: rgb(=
+255,0,0);">disabled</span></strong></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">18</td>
+<th colspan=3D"1" class=3D"confluenceTh">()</th>
+<td colspan=3D"1" class=3D"confluenceTd">Payback function will call&nbsp;sp=
+readFunds() function</td>
+<td colspan=3D"1" class=3D"confluenceTd">Must</td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">19</td>
+<th colspan=3D"1" class=3D"confluenceTh">spreadFunds()</th>
+<td colspan=3D"1" class=3D"confluenceTd">Spreads total contract balance bet=
+ween shareholders.&nbsp;Each shareholder receives a&nbsp;proportionate shar=
+e.</td>
+<td colspan=3D"1" class=3D"confluenceTd">Must</td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Arguments: address _dest, uint2=
+56 _value<br>Modifiers: public, payable<br>Returns:&nbsp; bool (success)</p=
+></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">20</td>
+<th colspan=3D"1" class=3D"confluenceTh">transferShares()</th>
+<td colspan=3D"1" class=3D"confluenceTd">Transfer shares. This function tra=
+nsfers already allocated shares and can't allocate new share. The sender is=
+ the function caller.</td>
+<td colspan=3D"1" class=3D"confluenceTd">Must</td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Arguments: address _dest, uint2=
+56 _value<br>Modifiers: public ,payable<br>Returns:&nbsp; bool (success)</p=
+></td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">21</td>
+<th colspan=3D"1" class=3D"confluenceTh">addNewShareholder()</th>
+<td colspan=3D"1" class=3D"confluenceTd">Adds new shareholder. This functio=
+n will dilute other shareholders. above 50% agreement must be achieved to a=
+ctually add new shareholder.</td>
+<td colspan=3D"1" class=3D"confluenceTd">Must</td>
+<td colspan=3D"1" class=3D"confluenceTd">Arguments: address _newAcc, uint25=
+6 _shares<br>Modifiers: public, payable<br>Returns: bool (success)</td>
+</tr>
+<tr>
+<td class=3D"numberingColumn confluenceTd" colspan=3D"1">22</td>
+<th colspan=3D"1" class=3D"confluenceTh">calculateReputation()</th>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd">Must</td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-002Partnership(PTR)Contract-Userinteractionanddesign">User int=
+eraction and design</h2>
+<p></p>
+<h2 id=3D"id-002Partnership(PTR)Contract-Questions">Questions</h2>
+<p>Below is a list of questions to be addressed as a result of this require=
+ments document:</p>
+<div class=3D"table-wrap">
+<table class=3D"wrapped confluenceTable">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh">Question</th>
+<th class=3D"confluenceTh">Outcome</th>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">How does PTR contract works?</td>
+<td colspan=3D"1" class=3D"confluenceTd">In the deployment stage, an array =
+of shareholders (accounts + shares) are provided to the constructor functio=
+n, which in turn verifies the shareholders as registered entities and saves=
+ them to a variable.</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-002Partnership(PTR)Contract-NotDoing">Not Doing</h2>
+<ul>
+<li></li>
+</ul>
+    </div>
+</body>
+</html>
+------=_Part_78_736166574.1529305725659--
